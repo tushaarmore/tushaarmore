@@ -55,7 +55,7 @@ Data Analyst • SQL • Power BI • Python • Turning Data into Business Insi
 ## 🌐 Connect With Me
 
 🌍 **Portfolio**  
-**https://tushar-analytics-portfolio.vercel.app/**
+**https://tusharmore.vercel.app/**
 
 💼 **LinkedIn**  
 **https://www.linkedin.com/in/tushaarmore/**
